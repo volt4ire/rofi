@@ -442,7 +442,7 @@ theme='style-1'
 
 There's a `$HOME/.config/rofi/scripts` directory, which contains links to each script. you can execute these links to open any type of Launcher, Applet or Powermenu.
 
-You can add `$HOME/.config/rofi/scripts` directory to your `$PATH` variable so that entering `t7_launcher` in the terminal (or executing this command) will summon the ***type-7 launcher***. you can do it by -
+You can add `$HOME/.config/rofi/scripts` directory to your `$PATH` variable so that entering `launcher_t7` in the terminal (or executing this command) will summon the ***type-7 launcher***. you can do it by -
 
 - In `bash`
 ``` bash
